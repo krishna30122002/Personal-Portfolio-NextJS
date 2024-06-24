@@ -72,8 +72,8 @@ const Hero = () => {
 h-[250px] lg:w-[400px] lg:h-[400px] relative mt-6 lg:mt-4"
                     >
                         <Image
-                            className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
-                            src="/images/me_ai_circle.png"
+                            className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 rounded-full overflow-hidden"
+                            src="/images/profile.jpg"
                             alt="hero_img"
                             width={365}
                             height={365}
