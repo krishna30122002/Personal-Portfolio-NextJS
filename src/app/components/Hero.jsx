@@ -73,7 +73,7 @@ h-[250px] lg:w-[400px] lg:h-[400px] relative mt-6 lg:mt-4"
                     >
                         <Image
                             className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 rounded-full overflow-hidden"
-                            src="/images/profile.jpg"
+                            src="/images/png/profile-remini-modified.png"
                             alt="hero_img"
                             width={365}
                             height={365}
